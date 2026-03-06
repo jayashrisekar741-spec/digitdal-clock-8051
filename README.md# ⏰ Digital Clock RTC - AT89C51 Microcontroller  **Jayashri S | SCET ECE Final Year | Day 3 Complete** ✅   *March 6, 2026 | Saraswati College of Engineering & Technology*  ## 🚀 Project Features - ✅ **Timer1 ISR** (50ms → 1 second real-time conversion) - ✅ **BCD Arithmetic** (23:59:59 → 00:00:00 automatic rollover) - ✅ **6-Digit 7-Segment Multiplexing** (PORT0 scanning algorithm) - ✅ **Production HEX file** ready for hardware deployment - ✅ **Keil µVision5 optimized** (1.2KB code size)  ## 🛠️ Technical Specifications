@@ -1,0 +1,14 @@
+# ⏰ Digital Clock RTC - AT89C51 Microcontroller
+
+**Jayashri S | SCET ECE Final Year | Day 3 Complete** ✅  
+*March 6, 2026 | Saraswati College of Engineering & Technology*
+
+## 🚀 Project Features
+- ✅ **Timer1 ISR** (50ms → 1 second real-time conversion)
+- ✅ **BCD Arithmetic** (23:59:59 → 00:00:00 automatic rollover)
+- ✅ **6-Digit 7-Segment Multiplexing** (PORT0 scanning algorithm)
+- ✅ **Production HEX file** ready for hardware deployment
+- ✅ **Keil µVision5 optimized** (1.2KB code size)
+
+  #tecnichal speciffications
+  
